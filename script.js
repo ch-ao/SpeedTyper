@@ -53,6 +53,8 @@ function gameStart() {
   })
 }
 
+
+
 function difficultyChange() {
   $("#difficulty").on("change", (e)=> {
     difficulty = e.target.value;

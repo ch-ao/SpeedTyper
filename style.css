@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #ffe2e228;
+  background-color: #b8b0b0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -26,7 +26,8 @@ select {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #ffc7c72a;
+  color: white;
+  background-color: #7c7575;
   height: 70px;
   display: flex;
   align-items: center;
@@ -34,11 +35,11 @@ select {
 }
 
 .container {
-  background-color: #f6f6f6;
+  background-color: #dfd3d3;
   padding: 20px;
   border-radius: 4px;
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
-  color: #8785a2;
+  color: black;
   position: relative;
   text-align: center;
   width: 500px;
@@ -101,4 +102,10 @@ button {
 button:hover {
   background-color: #8785a2;
   color: whitesmoke;
+}
+
+footer {
+  text-align: center;
+  position: absolute;
+  bottom: 5%;
 }
