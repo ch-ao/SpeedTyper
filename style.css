@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #b8b0b0;
+  background-color: #a0c1b8;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -27,7 +27,7 @@ select {
   left: 0;
   width: 100%;
   color: white;
-  background-color: #7c7575;
+  background-color: #709fb0;
   height: 70px;
   display: flex;
   align-items: center;
@@ -35,11 +35,11 @@ select {
 }
 
 .container {
-  background-color: #dfd3d3;
+  background-color: #726a95;
   padding: 20px;
   border-radius: 4px;
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
-  color: black;
+  color: #f4ebc1;
   position: relative;
   text-align: center;
   width: 500px;
